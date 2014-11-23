@@ -1,0 +1,33 @@
+{
+  "name": "musicxml-to-wav",
+  "version": "0.0.0",
+  "description": "Convert MusicXML to WAV.",
+  "author": "Luke Horvat",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukehorvat/musicxml-to-wav.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lukehorvat/musicxml-to-wav/issues"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "musicxml-to-pcm": "0.0.1",
+    "wav": "0.1.2"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "keywords": [
+    "musicxml",
+    "wav",
+    "pcm",
+    "audio",
+    "sound",
+    "data",
+    "sample",
+    "stream"
+  ]
+}
