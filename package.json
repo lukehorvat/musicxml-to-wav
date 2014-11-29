@@ -12,6 +12,7 @@
     "url": "https://github.com/lukehorvat/musicxml-to-wav/issues"
   },
   "main": "./index.js",
+  "bin": "./cli.js",
   "dependencies": {
     "musicxml-to-pcm": "0.0.1",
     "wav": "0.1.2"
@@ -22,6 +23,7 @@
   },
   "keywords": [
     "musicxml",
+    "xml",
     "wav",
     "pcm",
     "audio",
