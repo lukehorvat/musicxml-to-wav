@@ -1,6 +1,6 @@
 {
   "name": "musicxml-to-wav",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert MusicXML to WAV.",
   "author": "Luke Horvat",
   "license": "MIT",
