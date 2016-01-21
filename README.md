@@ -27,8 +27,7 @@ var musicXmlToWav = require("musicxml-to-wav");
 
 var stream = musicXmlToWav.convert("song.xml", "song.wav");
 
-// It's a Node.js stream, mate.
-stream.on("finish", function() { console.log("Done!"); });
+stream.on("finish", function() { console.log("Done!") });
 ```
 
 ## Related

@@ -23,6 +23,7 @@
   },
   "keywords": [
     "musicxml",
+    "music",
     "xml",
     "wav",
     "pcm",
@@ -30,6 +31,7 @@
     "sound",
     "data",
     "sample",
-    "stream"
+    "stream",
+    "encode"
   ]
 }
